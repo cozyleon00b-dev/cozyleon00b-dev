@@ -1,7 +1,7 @@
 # Hi, I'm Leo 👋
 ### 14 y/o | Junior Cyber Security Analyst | Full-Stack Developer | Bug Hunter
 
-*“I build systems in the light, and break them in the dark.”*
+*"I build systems in the light, and break them in the dark."*
 
 Welcome to my digital armory. I am a 14-year-old developer and bug hunter based in Indonesia. I specialize in the duality of technology: constructing high-performance, modern applications, and reverse-engineering logic to expose critical vulnerabilities. 
 
@@ -20,9 +20,7 @@ I am constantly building, patching, and expanding my digital arsenal. Here are s
 
 *(Note: I actively maintain my repositories. Expect frequent updates to existing scripts and new tool drops regularly!)*
 
----
-
-### 🛠️ My Arsenal
+### My Arsenal
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,16 +31,6 @@ I am constantly building, patching, and expanding my digital arsenal. Here are s
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
-
----
-
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cozyleon00b-dev&show_icons=true&theme=radical&hide_border=true" alt="Leo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyleon00b-dev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-
----
 
 ### Let's Connect
 - **Bugcrowd:** [bugcrowd.com/cozyleon00b](https://bugcrowd.com/cozyleon00b)
