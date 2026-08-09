@@ -20,23 +20,32 @@ I am constantly building, patching, and expanding my digital arsenal. Here are s
 
 *(Note: I actively maintain my repositories. Expect frequent updates to existing scripts and new tool drops regularly!)*
 
-### My Arsenal
+---
+
+### 🛠️ My Arsenal
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
+---
+
 ### GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[cozyleon00b-dev]&show_icons=true&theme=radical&hide_border=true" alt="Leo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[cozyleon00b-dev]&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cozyleon00b-dev&show_icons=true&theme=radical&hide_border=true" alt="Leo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyleon00b-dev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
+
+---
 
 ### Let's Connect
 - **Bugcrowd:** [bugcrowd.com/cozyleon00b](https://bugcrowd.com/cozyleon00b)
-- **Email:** `cozyleon00b@gmail.com`
+- **Email:** [cozyleon00b@gmail.com](mailto:cozyleon00b@gmail.com)
 
 *"Writing clean code, exposing dirty logic."*
